@@ -1,70 +1,265 @@
-nav{
+:root{
+    --state:running;
+}
+nav {
     position: relative;
     top: -1%;
     left: -0.5%;
- background-color: #58585b;
- overflow: hidden;
- height:40px;   
- color:wheat;
- border-radius: 10px;
+    background-color: #58585b;
+    overflow: hidden;
+    height: 40px;
+    color: wheat;
+    border-radius: 10px;
 }
-nav a{
-    padding-left:30px;
+
+nav a {
+    padding-left: 30px;
     padding-right: 10px;
     float: left;
     color: wheat;
     text-align: center;
     font-size: 25px;
 }
-nav a:hover{
+
+nav a:hover {
     background-color: black;
     color: wheat;
     height: 100%;
 }
-nav a.active{
-color: white;
-background-color: teal;
-height: 100%;
+
+nav a.active {
+    color: white;
+    background-color: teal;
+    height: 100%;
 }
 
-body{
+body {
     position: relative;
     display: block;
-    margin:  0 auto;
-    background-image:url("Images/background.jpg");
+    margin: 0 auto;
+    /* animation: bg ;
+    animation-duration: 4s; */
+    background-color: white;
+    background-image: url("Images/background.jpg");
 }
-main{
+
+main {
     position: absolute;
     left: 38%;
     display: block;
     margin: 0 auto;
-    margin-top: 20px;
+    margin-top: 10%;
     text-align: center;
     width: 100%;
     position: relative;
     top: -10%;
 
 }
-#midBox{
-background-color:#ddc9c7 ;
-height: auto;
-width: 25%;    
-border:1px solid black;
-border-radius: 3%;
+
+#midBox {
+    background-color: #ddc9c7;
+    height: auto;
+    width: 25%;
+    border: 1px solid black;
+    border-radius: 3%;
 }
-#img{
+
+#img {
     border-radius: 50%;
     height: 80px;
     width: auto;
     box-shadow: 0 0 0 1.5em #ddc9c7;
 }
-#sp{
+
+#sp {
     position: relative;
     top: 50px;
     display: block;
     justify-content: center;
 }
-#tex{
+
+#tex {
     margin-top: 30%;
     margin-bottom: 30%;
 }
+
+@keyframes txt {
+    0% {
+        content: "I know C";
+    }
+
+    1% {
+        content: "I know C+";
+    }
+
+    2% {
+        content: "I know C++";
+    }
+
+    3% {
+        content: "I know C++ 1";
+    }
+
+    4% {
+        content: "I know C++ 14";
+    }
+    5% {
+        content: "I know C++ 14";
+    }
+
+    15% {
+        content: "I know C++ 14";
+    }
+    16% {
+        content: "I know C++ 1";
+    }
+
+    17% {
+        content: "I know C++ ";
+    }
+
+    18% {
+        content: "I know C+";
+    }
+
+    19% {
+        content: "I know C";
+    }
+
+    20% {
+        content: "I know ";
+    }
+    25% {
+        content: "I know ";
+    }
+
+    26% {
+        content: "I know J";
+    }
+
+    27% {
+        content: "I know JS";
+    }
+    41% {
+        content: "I know JS";
+    }
+
+    42% {
+        content: "I know J";
+    }
+
+    43% {
+        content: "I know ";
+    }
+    52% {
+        content: "I know ";
+    }
+
+    53% {
+        content: "I know H";
+    }
+
+    54% {
+        content: "I know HT";
+    }
+
+    55% {
+        content: "I know HTM";
+    }
+
+    56% {
+        content: "I know HTML";
+    }
+
+    57% {
+        content: "I know HTML/";
+    }
+
+    58% {
+        content: "I know HTML/C";
+    }
+
+    59% {
+        content: "I know HTML/CS";
+    }
+
+    60% {
+        content: "I know HTML/CSS";
+    }
+    69% {
+        content: "I know HTML/CSS";
+    }
+
+    70% {
+        content: "I know HTML/CS";
+    }
+
+    71% {
+        content: "I know HTML/C";
+    }
+
+    72% {
+        content: "I know HTML/";
+    }
+
+    73% {
+        content: "I know HTML";
+    }
+
+    74% {
+        content: "I know HTM";
+    }
+
+    75% {
+        content: "I know HT";
+    }
+
+    76% {
+        content: "I know H";
+    }
+
+    77% {
+        content: "I know ";
+    }
+    78% {
+        content: "I kno ";
+    }
+    78% {
+        content: "I kn ";
+    }
+    78% {
+        content: "I k ";
+    }
+    78% {
+        content: "I  ";
+    }
+    86% {
+        content: "I am       ";
+    }
+    87% {
+        content: "I am a";
+    }
+    87% {
+        content: "I am a Problem";
+    }
+    97%{
+        content: "I am a Problem Solver";
+
+    }
+
+    100% {
+        content: "I am a Problem Solver";
+    }
+}
+
+#spa::before {
+    content: "";
+    animation: txt 1 20s;
+    animation-iteration-count: 1;
+    animation-play-state: var(--state);
+}
+
+/* @keyframes bg{ 
+    from{background-color:white;}
+    to{background-image: url("Images/background.jpg");}
+} */
