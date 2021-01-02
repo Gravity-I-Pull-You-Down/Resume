@@ -1,49 +1,6 @@
 :root{
     --state:running;
 }
-nav {
-    margin: 0;
-    padding: 0;
-    position: relative;
-    top: -1%;
-    background-color: #202022;
-    overflow: hidden;
-    height: 40px;
-    color: #202022;
-
-}
-
-nav a {
-    padding-left: 30px;
-    padding-right: 10px;
-    float: left;
-    color: white;
-    text-align: center;
-    font-size: 25px;
-}
-
-nav a:hover {
-    background-color: #777777;
-    color: white;
-    height: 100%;
-}
-
-nav a.active {
-    color: wheat;
-    background-color: #58585b;
-    height: 100%;
-}
-
-body {
-    position: relative;
-    display: block;
-    margin: 0 auto;
-    padding: 0;
-    /* animation: bg ;
-    animation-duration: 4s; */
-    background-color: #151515;
-}
-
 main {
     left: 38%;
     display: block;
