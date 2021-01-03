@@ -67,7 +67,7 @@
         }
     }
 }
-@media all and (max-width:10in) or (max-device-width: 10in){
+@media all and (max-width:10in) {
 
     main {
         /*left: 18%;*/
@@ -139,7 +139,7 @@
     }
 
 }
-@media all and (max-width:6in) or (max-device-width: 6in){
+@media all and (max-width:6in) and (orientation: portrait) {
 
     main {
         /*left: 38%;*/
