@@ -2,4 +2,20 @@ body {
     margin: 0 ;
     padding: 0;
     background-color: #151515;
+    color: white;
+}
+@media (max-width: 10in) {
+    body{
+        max-height: 1000px;
+        margin: 0;
+        padding: 0;
+        background-color: #151515 ;
+        color:white;
+        display: flex;
+        justify-content: center;
+        align-content: center;
+        flex-flow: column wrap;
+    }
+
+
 }
