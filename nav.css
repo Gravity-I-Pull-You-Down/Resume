@@ -32,42 +32,42 @@ nav a.active {
 }
 
 
-@media (max-width: 10in) {
-        nav {
-            margin: 0;
-            padding: 0;
-            position: relative;
-            top: -1%;
-            background-color: #202022;
-            overflow: hidden;
-            height: 30px;
-            color: #202022;
+/*@media (max-width: 425px) {*/
+/*        nav {*/
+/*            margin: 0;*/
+/*            padding: 0;*/
+/*            position: relative;*/
+/*            top: -1%;*/
+/*            background-color: #202022;*/
+/*            overflow: hidden;*/
+/*            height: 30px;*/
+/*            color: #202022;*/
 
-        }
+/*        }*/
 
-        nav a {
-            padding-left: 30px;
-            padding-right: 10px;
-            float: left;
-            color: white;
-            text-align: center;
-            font-size: 20px;
-        }
+/*        nav a {*/
+/*            padding-left: 30px;*/
+/*            padding-right: 10px;*/
+/*            float: left;*/
+/*            color: white;*/
+/*            text-align: center;*/
+/*            font-size: 20px;*/
+/*        }*/
 
-        nav a:hover {
-            background-color: #777777;
-            color: white;
-            height: 100%;
-        }
+/*        nav a:hover {*/
+/*            background-color: #777777;*/
+/*            color: white;*/
+/*            height: 100%;*/
+/*        }*/
 
-        nav a.active {
-            color: wheat;
-            background-color: #58585b;
-            height: 100%;
-        }
-    }
+/*        nav a.active {*/
+/*            color: wheat;*/
+/*            background-color: #58585b;*/
+/*            height: 100%;*/
+/*        }*/
+/*    }*/
 
-@media (max-width: 6in) {
+@media (max-width: 425px) {
     nav {
         font-size: 16px;
         margin: 0;
