@@ -1,7 +1,5 @@
 const app = document.getElementById('app');
-if (!(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent))) {
-    // true for mobile device
-    // document.write("mobile device");
+
 
     const typewriter = new Typewriter(app, {
         strings: ["C++/14", "Java"],
@@ -18,4 +16,3 @@ if (!(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navi
         .typeString("And most of all").pauseFor(1000).deleteAll()
         .typeString("I like solving problems").pauseFor(1000)
         .start();
-}
