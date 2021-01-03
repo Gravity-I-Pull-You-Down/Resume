@@ -1,4 +1,4 @@
-@media all and (min-width:480px) {
+@media all and (min-width:425px) {
 
 
     main {
@@ -67,80 +67,10 @@
         }
     }
 }
-/*@media all and (max-width:480px) ,(orientation: portrait){*/
-
-/*    main {*/
-/*        !*left: 18%;*!*/
-/*        display: flex;*/
-/*        justify-content: center;*/
-/*        align-content: center;*/
-/*        margin: 10% auto 0;*/
-/*        text-align: center;*/
-/*        width: 25%;*/
-/*        position: relative;*/
-/*        top: -10%;*/
-
-/*    }*/
-
-/*    #midBox {*/
-/*        background-color: #202022;*/
-/*        color: white;*/
-/*        height: 100%;*/
-/*        width: 100%;*/
-/*        border: 1px solid black;*/
-/*        border-radius: 3%;*/
-/*    }*/
-
-
-/*    #img {*/
-/*        border-radius: 50%;*/
-/*        height: 80px;*/
-/*        width: auto;*/
-/*        box-shadow: 0 0 0 0.5em #202022;*/
-/*    }*/
-
-/*    #sp {*/
-/*        position: relative;*/
-/*        top: 50px;*/
-/*        display: block;*/
-/*        justify-content: center;*/
-/*    }*/
-
-/*    #tex {*/
-/*        margin-top: 30%;*/
-/*        margin-bottom: 30%;*/
-/*    }*/
-
-/*    #app {*/
-/*        font-size: 20px;*/
-/*        margin-left: 5px;*/
-/*        position: relative;*/
-/*    }*/
-
-/*    #app::after {*/
-/*        content: "";*/
-/*        position: absolute;*/
-/*        right: -5px;*/
-/*        width: 1px;*/
-/*        height: 5%;*/
-/*        border-right: 2px solid black;*/
-/*        animation: blink 0.5s infinite ease;*/
-/*    }*/
-
-/*    @keyframes blink {*/
-/*        0% {*/
-/*            opacity: 0;*/
-/*        }*/
-/*        100% {*/
-/*            opacity: 1;*/
-/*        }*/
-/*    }*/
-
-/*}*/
-@media all and (max-width:425px) ,(orientation: portrait){
+@media (orientation: portrait){
 
     main {
-        left: 0%;
+        left: 0;
         /*display: block;*/
         margin: 10% auto 0;
         text-align: center;
