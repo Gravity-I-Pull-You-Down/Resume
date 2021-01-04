@@ -4,6 +4,7 @@ body {
     background-color: #151515;
     color: white;
 }
+
 @media (max-width: 425px) {
     body{
         /*max-height: 1000px;*/

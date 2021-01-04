@@ -1,3 +1,6 @@
+//this the main JS for Typewriter effect using TypwriterJS library
+//TODO : remove the library "TypeWriterJS" and do it manually, or atleast check licence if available
+
 const app = document.getElementById('app');
 
 

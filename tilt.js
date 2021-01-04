@@ -1,5 +1,6 @@
-//
-
+//This if statement below contains JS for on hove tilt,
+// which is disabled by the very same if statement for all mobil devices
+//TODO : Check for the licence
 if (!(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent))) {
 
     var VanillaTilt = (function () {
