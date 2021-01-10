@@ -50,10 +50,10 @@ nav a.active {
         font-size: 16px;
         margin: 0;
         padding: 0;
-        position: relative;
+        position: fixed;
         background-color: #202022;
         overflow: hidden;
-        height: 25px;
+        height: 4vh;
         color: #202022;
 
     }
