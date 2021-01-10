@@ -1,3 +1,6 @@
+*{
+    font-family: 'Grandstander', cursive,monospace;
+}
 body {
     margin: 0 ;
     padding: 0;
@@ -5,7 +8,7 @@ body {
     color: white;
 }
 
-@media (max-width: 425px) {
+@media all and (max-width: 425px),(orientation: portrait) {
     body{
         /*max-height: 1000px;*/
         margin: 0;

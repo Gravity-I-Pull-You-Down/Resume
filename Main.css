@@ -1,8 +1,10 @@
-@media all and (min-width:425px) {
 
+    body{
+        font-family: 'Grandstander', cursive,monospace;
 
+    }
     main {
-        left: 38%;
+        /*left: 38%;*/
         display: block;
         margin: 10% auto 0;
         text-align: center;
@@ -13,12 +15,15 @@
     }
 
     #midBox {
+        margin-left: auto;
+        margin-right: 35%;
         background-color: #202022;
         color: white;
         height: auto;
         width: 25%;
         border: 1px solid black;
         border-radius: 3%;
+        /*box-shadow: 3px 3px #303033;*/
 
     }
 
@@ -66,12 +71,17 @@
             opacity: 1;
         }
     }
+@media all and (max-width: 800px){
+#midBox{
+    margin-left: auto;
+    margin-right: 15%;
+    width: 65%;
 }
-@media (orientation: portrait){
+
+}
+@media all and (orientation: portrait),(max-width: 425px){
 
     main {
-        left: 0;
-        /*display: block;*/
         margin: 10% auto 0;
         text-align: center;
         width: 100%;
@@ -83,10 +93,13 @@
 
     #midBox {
         background-color: #202022;
+        width: 65%;
+        margin-left: auto;
+        margin-right: 15%;
         color: white;
         height: 100%;
-        width: 100%;
         border: 1px solid black;
+        border-radius: 3px;
 
 
     }

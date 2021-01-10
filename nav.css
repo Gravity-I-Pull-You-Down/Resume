@@ -1,13 +1,24 @@
+*{
+    font-family: 'Grandstander', cursive,monospace;
+    text-decoration: none;
+}
 nav {
     margin: 0;
+    /*margin-bottom: 5%;*/
     padding: 0;
-    position: relative;
-    top: -1%;
+    display: flex;
+    position: fixed;
+    top: 0;
+    width: 100%;
     background-color: #202022;
     overflow: hidden;
-    height: 40px;
+    height: 4vh;
     color: #202022;
 
+}
+.push{
+    margin-left: auto;
+    margin-right: 5px;
 }
 
 nav a {
@@ -30,13 +41,12 @@ nav a.active {
     background-color: #58585b;
     height: 100%;
 }
-@media (max-width: 425px) {
+@media all and (max-width: 600px),(orientation: portrait) {
     nav {
         font-size: 16px;
         margin: 0;
         padding: 0;
         position: relative;
-        /*top: -1%;*/
         background-color: #202022;
         overflow: hidden;
         height: 25px;

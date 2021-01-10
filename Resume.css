@@ -1,8 +1,14 @@
 /*Genric Code for Resume.html
 */
 /*.line contriols the 2 seperating lines around headder*/
+*{
+    font-family: 'Grandstander', cursive,monospace;
+}
+body{
+   margin: 0 0 0 0;
+}
 .line{
-    margin: 0.5em -1em 0 -1em;
+    margin: 1.5em -1em 0 -1em;
     color: white;
     border: 5px solid white  ;
     border-radius: 50%;
@@ -68,7 +74,7 @@ display: flex;
     width: 50%;
 }
 /*same Stuff repeated but for Mobil Devices*/
-@media (max-width: 450px) {
+@media (max-width: 450px),(orientation: portrait) {
     line{
         margin: 0.5em -1em 0 -1em;
         color: white;
