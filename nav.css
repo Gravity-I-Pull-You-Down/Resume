@@ -12,7 +12,7 @@ nav {
     width: 100%;
     background-color: #202022;
     overflow: hidden;
-    height: 4vh;
+    height: 30px;
     color: #202022;
 
 }
@@ -44,16 +44,15 @@ nav a.active {
 @media all and (max-width: 600px),(orientation: portrait) {
     .push{
         margin-left: auto;
-        margin-right: 5px;
+        margin-right: 25px;
     }
     nav {
-        font-size: 16px;
         margin: 0;
         padding: 0;
         position: fixed;
         background-color: #202022;
         overflow: hidden;
-        height: 4vh;
+        height: 20px;
         color: #202022;
 
     }
@@ -64,7 +63,7 @@ nav a.active {
         float: left;
         color: white;
         text-align: center;
-        font-size: 15px;
+        font-size: 20px;
     }
 
     nav a:hover {

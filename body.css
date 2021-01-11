@@ -17,7 +17,6 @@ body {
         color:white;
         display: flex;
         justify-content: flex-start;
-        align-content: center;
         flex-flow: column wrap;
     }
 

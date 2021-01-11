@@ -1,98 +1,108 @@
 /*Genric Code for Resume.html
 */
 /*.line contriols the 2 seperating lines around headder*/
-*{
-    font-family: 'Grandstander', cursive,monospace;
+* {
+    font-family: 'Grandstander', cursive, monospace;
 }
-body{
-   margin: 0 0 0 0;
+
+body {
+    margin: 0 0 0 0;
 }
-.line{
-    margin: 1.5em -1em 0 -1em;
+
+.line {
+    margin: 4.5em -1em 0 -1em;
     color: white;
-    border: 5px solid white  ;
+    border: 5px solid white;
     border-radius: 50%;
 }
+
 /*Headder is divided in 2 parts left one is controlling the Name part*/
 
-.leftHeader{
+.leftHeader {
     margin: 1.5em 2em 1.5em 2em;
     width: 50%;
     font-size: 45px;
 }
 
 /*Right header is controlling right header*/
-.rightHeader{
+.rightHeader {
     margin: 3.5em 2em 1.5em 2em;
     width: 30%;
 }
+
 /*this controls both the left and right header*/
-.headerClass{
-display: flex;
+.headerClass {
+    display: flex;
     justify-content: space-between;
 
 }
-.leftElements{
+
+.leftElements {
     margin: 1.5em 2em 1.5em 2em;
     width: 30%;
     font-size: 45px;
 }
 
 /*Right header is controlling right header*/
-.rightElements{
+.rightElements {
     margin: 1.5em 2em 1.5em 2em;
     /*width: 60%;*/
     display: flex;
     flex-flow: column wrap;
 
 }
+
 /*this controls both the left and right header*/
-.headerElements{
+.headerElements {
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
 }
 
-.Institute{
+.Institute {
     font-size: 32px;
 }
-.course{
+
+.course {
     font-size: 25px;
     opacity: 0.8;
 }
-.grade{
+
+.grade {
     font-size: 20px;
     opacity: 0.6;
 }
-.year{
+
+.year {
     font-size: 18px;
     opacity: 0.4;
 }
-.allig{
+
+.allig {
     display: flex;
     flex-direction: column;
     width: 50%;
 }
+
 /*same Stuff repeated but for Mobil Devices*/
 @media (max-width: 450px),(orientation: portrait) {
-    line{
-        margin: 0.5em -1em 0 -1em;
+    .line {
+        margin: 4.5em -1em 0 -1em;
         color: white;
-        border: 5px solid white  ;
+        border: 5px solid white;
         border-radius: 50%;
 
     }
 
-    .leftHeader{
+    .leftHeader {
         margin: 1.5em 2em 1.5em 2em;
         width: 50%;
     }
-    .rightHeader{
+
+    .rightHeader {
         margin: 1.5em 2em 1.5em 2em;
-        width: 10%;
+        width: 30%;
     }
-    header{
-        display: flex;
-        justify-content: space-between;
-}
+
+
 }
