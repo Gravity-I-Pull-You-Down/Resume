@@ -71,7 +71,7 @@
             opacity: 1;
         }
     }
-@media all and (max-width: 800px){
+@media all and (max-width: 800px),(orientation: portrait){
 #midBox{
     margin-left: auto;
     margin-right: 15%;
@@ -99,7 +99,7 @@
         color: white;
         height: 100%;
         border: 1px solid black;
-        border-radius: 3px;
+        border-radius: 3%;
 
 
     }
