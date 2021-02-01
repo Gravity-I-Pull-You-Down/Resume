@@ -24,6 +24,10 @@ html,body{
 	flex-direction: column;
 	margin: 10px 0 0 0;
 }
+input[type=text],textarea{
+	border-radius: 5px;
+	padding: 10px;
+}
 input[type=submit] {
   background-color: #4F4F4F;
   color: white;
@@ -42,4 +46,10 @@ form{
 	width: 100%;
 	height: 100%;
 	flex-direction: column;
+}
+@media all and (orientation: portrait),(max-width: 425px){
+form{
+	display: flex;
+	scale : 2;
+}
 }
