@@ -1,0 +1,755 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"s",
+				"src\tAttr"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"st",
+				"style\tAttr"
+			],
+			[
+				"fle",
+				"flex-flow\tproperty"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"fel",
+				"flex-direction\tproperty"
+			],
+			[
+				"flex",
+				"flex-flow\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"margin",
+				"margin-right\tproperty"
+			],
+			[
+				"pa",
+				"padding-right\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"font-",
+				"font-family\tproperty"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"ex",
+				"expected"
+			],
+			[
+				"bas",
+				"base64Encoded"
+			],
+			[
+				"pri",
+				"println"
+			],
+			[
+				"my",
+				"myBytes"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"stringstre",
+				"string\tstandard header"
+			],
+			[
+				"ma",
+				"main\tmain()"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"co",
+				"counter"
+			],
+			[
+				"cou",
+				"counter"
+			],
+			[
+				"str",
+				"strings"
+			],
+			[
+				"be",
+				"begin"
+			],
+			[
+				"de",
+				"descending"
+			],
+			[
+				"t",
+				"template"
+			],
+			[
+				"e",
+				"expc"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"te",
+				"temp"
+			],
+			[
+				"temp",
+				"template"
+			],
+			[
+				"p",
+				"points"
+			],
+			[
+				"c",
+				"cout"
+			],
+			[
+				"for",
+				"for\tFor Loop"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"a",
+				"arr"
+			],
+			[
+				"fi",
+				"firstNotRepeatingCharacter"
+			],
+			[
+				"po",
+				"popOne"
+			],
+			[
+				"pu",
+				"pushOne"
+			],
+			[
+				"to",
+				"topTwo"
+			],
+			[
+				"C",
+				"currentSum"
+			],
+			[
+				"M",
+				"MaximumSum"
+			],
+			[
+				"v",
+				"void"
+			],
+			[
+				"max",
+				"MaximumSum"
+			],
+			[
+				"su",
+				"currentSum"
+			],
+			[
+				"en",
+				"EndingIndex"
+			],
+			[
+				"De",
+				"Derived2"
+			],
+			[
+				"g",
+				"getName"
+			],
+			[
+				"S",
+				"Student"
+			],
+			[
+				"pr",
+				"print1"
+			],
+			[
+				"fo",
+				"front"
+			],
+			[
+				"cho",
+				"choice"
+			],
+			[
+				"ch",
+				"Choice"
+			],
+			[
+				"n",
+				"nums"
+			],
+			[
+				"vect",
+				"vector\tstandard header"
+			],
+			[
+				"cr",
+				"createInstance"
+			],
+			[
+				"ge",
+				"get_im"
+			],
+			[
+				"get",
+				"get_re"
+			],
+			[
+				"set",
+				"set_a"
+			],
+			[
+				"Se",
+				"secondRoot"
+			],
+			[
+				"sec",
+				"secant"
+			],
+			[
+				"choi",
+				"choiceArray"
+			],
+			[
+				"ios",
+				"iostream\tstandard header"
+			],
+			[
+				"se",
+				"SearchElement"
+			],
+			[
+				"fir",
+				"firstRoot"
+			],
+			[
+				"fin",
+				"finalRoot"
+			],
+			[
+				"equ",
+				"equasionCalculator"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 406,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"inste",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"code",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"Install \t",
+				"Package Control: Install Package"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 171.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/mnt/sda5/Resume"
+	],
+	"file_history":
+	[
+		"/mnt/sda5/learnReact/learn_react/src/index.js",
+		"/mnt/sda5/Resume/.gitignore",
+		"/mnt/sda5/learnReact/learn_react/src/App.js",
+		"/mnt/sda5/learnReact/learn_react/src/index.css",
+		"/mnt/sda5/Resume/Contact.css",
+		"/mnt/sda5/Resume/index.html",
+		"/mnt/sda5/Resume/body.css",
+		"/mnt/sda5/Resume/Contact.html",
+		"/mnt/sda5/Resume/Contact.js",
+		"/mnt/sda5/Resume/README.md",
+		"/mnt/sda5/Resume/Resume.html",
+		"/mnt/sda5/Resume/Resume.css",
+		"/mnt/sda5/Resume/body.sublime-project",
+		"/home/gravity/Downloads/Roboto_Mono/README.txt",
+		"/home/gravity/Downloads/Mahi/index.html",
+		"/home/gravity/.local/share/minergate/log/xmr.log",
+		"/home/gravity/.local/share/minergate/log/minergate.log",
+		"/home/gravity/Downloads/Manaswinie XB COMPUTER AIP PROJECT.html",
+		"/mnt/sda5/MINE/cpuminer-opt-3.15.5/INSTALL_LINUX",
+		"/mnt/sda5/MINE/awesomeminer-remoteagent/README",
+		"/mnt/sda5/MINE/awesomeminer-remoteagent/awesome.service",
+		"/mnt/sda5/MINE/cgminer-4.9.0/README",
+		"/home/gravity/Downloads/detectmobilebrowser.js.txt",
+		"/home/gravity/Downloads/test(4).S",
+		"/mnt/sda5/NiceHashMiner-3.0.5.6/README.md",
+		"/mnt/sda5/Cources/web dev/The Complete Web Developer in 2019 Zero to Mastery/7. Advanced CSS/9. Exercise Robot Animation.vtt",
+		"/tmp/mozilla_gravity0/wxWidgets-3.1.4/src/png/INSTALL",
+		"/home/gravity/.cache/.fr-hfZcfr/Resume/index.html",
+		"/home/gravity/.cache/.fr-aLbmep/Resume/index.html",
+		"/home/gravity/Music/assets/css/main.css",
+		"/mnt/sda5/WebStorm-203.6682.155/Install-Linux-tar.txt",
+		"/home/gravity/Music/index.html",
+		"/etc/X11/Xsession.options",
+		"/home/gravity/Downloads/chess_com_games_2020-12-27.pgn",
+		"/etc/X11/Xsession",
+		"/home/gravity/.cache/.fr-qMDK7F/modded_by_lunadev.txt",
+		"/home/gravity/Downloads/ciphertext(2)",
+		"/home/gravity/Downloads/store.c",
+		"/home/gravity/Downloads/ciphertext.py",
+		"/home/gravity/Downloads/VaultDoor5.java",
+		"/home/gravity/Downloads/rev_this",
+		"/mnt/sda5/movies/Chessbook/PdfListFolder.txt",
+		"/mnt/sda5/movies/Chessbook/Pdf-ListName.txt",
+		"/mnt/sda5/movies/Chessbook/List.txt",
+		"/mnt/sda5/.__pycache__/div",
+		"/home/gravity/Downloads/inline.pgn",
+		"/home/gravity/Downloads/test(3).S",
+		"/home/gravity/Downloads/test(2).S",
+		"/home/gravity/Downloads/10000/filler.txt",
+		"/home/gravity/Downloads/vuln.c",
+		"/home/gravity/Downloads/VaultDoor4.java",
+		"/home/gravity/Downloads/10000/script.sh",
+		"/home/gravity/.cache/.fr-7OWi1D/filler.txt",
+		"/home/gravity/.cache/.fr-yScHmt/filler.txt",
+		"/home/gravity/.cache/.fr-izAzZF/filler.txt",
+		"/mnt/sda5/SEproject/cmake-build-debug/CMakeFiles/Progress/2",
+		"/mnt/sda5/SEproject/cmake-build-debug/CMakeFiles/Progress/count.txt",
+		"/home/gravity/Downloads/vuln",
+		"/home/gravity/Downloads/whitepages.txt",
+		"/home/gravity/Downloads/test(1).S",
+		"/home/gravity/Downloads/test.S",
+		"/home/gravity/Downloads/mystery",
+		"/untitled.js",
+		"/home/gravity/Downloads/VaultDoor1.java",
+		"/home/gravity/Downloads/VaultDoor3.java",
+		"/tmp/mozilla_gravity0/VaultDoor3-1.java",
+		"/home/gravity/Downloads/message.txt",
+		"/home/gravity/Downloads/flag.txt",
+		"/home/gravity/Downloads/bluez-5.54/INSTALL",
+		"/home/gravity/Downloads/ciphertext",
+		"/home/gravity/Downloads/strings.txt",
+		"/home/gravity/Downloads/table.txt",
+		"/mnt/sda5/.__pycache__/Exam",
+		"/home/gravity/Documents/.ranso/sudha",
+		"/home/gravity/Documents/.ranso/rohini sharma",
+		"/home/gravity/Documents/.ranso/priyanka",
+		"/home/gravity/Documents/.ranso/Yogita",
+		"/home/gravity/Downloads/gutenprint-5.3.3/INSTALL",
+		"/home/gravity/Documents/.ranso/Nikita ant",
+		"/home/gravity/Documents/.ranso/minal",
+		"/home/gravity/gnome-terminal/INSTALL.md",
+		"/home/gravity/nord-gnome-terminal/README.md",
+		"/home/gravity/solarized/README.md",
+		"/home/gravity/solarized/tmux/README.md",
+		"/home/gravity/Documents/.ranso/Shikha",
+		"/home/gravity/Documents/.ranso/Selena",
+		"/home/gravity/Documents/.ranso/Riya",
+		"/home/gravity/Documents/.ranso/pinky",
+		"/mnt/sda5/Installations/Steam/controller_base/launcher.vdf",
+		"/home/gravity/Documents/.ranso/siya",
+		"/home/gravity/Documents/.ranso/shilpa",
+		"/home/gravity/Documents/.ranso/bmst",
+		"/home/gravity/Documents/.ranso/Nikita",
+		"/mnt/sda5/BCA/ll.cpp",
+		"/home/gravity/Downloads/test-10.json",
+		"/home/gravity/Downloads/test-9.json",
+		"/mnt/sda5/.__pycache__/neha s",
+		"/mnt/sda5/.__pycache__/neha  bus",
+		"/mnt/sda5/.__pycache__/neha 2",
+		"/mnt/sda5/.__pycache__/neha",
+		"/mnt/sda5/Expance/The Expanse - 1x01 - Dulcinea.HDTV.en.srt",
+		"/mnt/sda5/HBTU-MCA/isListPalindrome.cpp",
+		"/mnt/sda5/HBTU-MCA/Question4.txt",
+		"/mnt/sda5/HBTU-MCA/removeKFromList.cpp",
+		"/mnt/sda5/HBTU-MCA/Question3.txt",
+		"/mnt/sda5/HBTU-MCA/isCryptic.cpp",
+		"/mnt/sda5/HBTU-MCA/Question2.txt",
+		"/mnt/sda5/HBTU-MCA/Sudoku.txt",
+		"/mnt/sda5/HBTU-MCA/Question1.txt",
+		"/mnt/sda5/HBTU-MCA/isCrpyt.cpp",
+		"/mnt/sda5/HBTU-MCA/Question.txt",
+		"/mnt/sda5/HBTU-MCA/isCrypt.cpp",
+		"/mnt/sda5/HBTU-MCA/sudoku.cpp",
+		"/mnt/sda5/HBTU_MCA/SecondSolution/Question.txt",
+		"/home/gravity/.git-credentials",
+		"/mnt/sda5/CodeSignalSolutions/Interview/rotateimage/Question.txt",
+		"/mnt/sda5/CodeSignalSolutions/Interview/firstNotRepeatingCharacter/Question.txt",
+		"/mnt/sda5/CodeSignalSolutions/Interview/firstduplicate/Question.txt",
+		"/home/gravity/Documents/.ranso/Nithya",
+		"/mnt/sda5/Hacktober/Placementprep/FirstQuestion.txt",
+		"/mnt/sda5/Hacktober/Placementprep/FirstQuestion.text",
+		"/home/gravity/Documents/ranso/ShivaniInsest",
+		"/.git-credentials",
+		"/home/gravity/Documents/ranso/shivani",
+		"/home/gravity/Documents/ranso/Shivani",
+		"/home/gravity/Documents/ranso/Ishana",
+		"/mnt/sda5/.__pycache__/rohini sharma",
+		"/mnt/sda5/.__pycache__/simi"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 135.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"col",
+			"avatar",
+			"club",
+			"1001",
+			"0x3",
+			"0x8be",
+			"0x6cf",
+			"0x71c",
+			"System.out.println(\"\");\n        for (int i=0; i<32; i++) {\n            if (passBytes[i] != myBytes[i]) {\n                return false;\n            }\n        }",
+			",",
+			"BUFSIZE",
+			"set",
+			" ",
+			" ",
+			" ",
+			"    ",
+			" ",
+			"0x10",
+			"0xc",
+			"0xb",
+			"0x6",
+			"0x4",
+			"0x2",
+			"0x3",
+			"_0x4b5b('0x9')",
+			"_0x4b5b('0x8')",
+			"_0x4b5b('0x7')",
+			"_0x4b5b('0x6')",
+			"_0x4b5b('0x5')",
+			"_0x4b5b('0x4')",
+			"_0x4b5b('0x2')",
+			"_0x4b5b",
+			"_0x1d68f6",
+			"_0xb4bdb3",
+			"_0x2bd6f7",
+			"_0x4bd822",
+			"pico",
+			"pico{",
+			"Variation",
+			"Opening",
+			"install",
+			"io",
+			"ios",
+			"iostr",
+			"ios",
+			".c",
+			"sharma",
+			"Hello! All nuts ",
+			"Hello! All nuts and cracks again Preeti Kulkarni had brought you an arousal of my Mom’s late father’s (my grandpa) property settlements",
+			"Ye",
+			"mydata",
+			"= ",
+			"\"",
+			"[",
+			"]",
+			"[",
+			"\"",
+			"[",
+			"{",
+			"]",
+			"};\n",
+			"\"",
+			"grid",
+			"for (int i = 0; i < (a.size()+1)/2; ++i)\n\t{\n\t\tv  = a[i];\n\t\ta[i] = a[a.size() - i - 1];\n\t\ta[a.size() - i - 1] = v;\n\t}",
+			"();\n",
+			"rotateImage",
+			"g",
+			"int",
+			"Sharma",
+			"{\n",
+			"3",
+			"20",
+			"x",
+			"y",
+			"for (int i = 0; i < x; ++i)\n\t{\n\t\tfor (int j = 0;  j < y; ++j)\n\t\t{\n\t\t\tDataArray2[x][y] = j;\n\t\t}\n\t}",
+			"float",
+			"hii",
+			"sart",
+			"hi guy",
+			"hi,",
+			"hi"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"3",
+			"2238",
+			"1743",
+			"1820",
+			"  ",
+			"",
+			"100",
+			"1",
+			"0",
+			"1",
+			"0",
+			".",
+			"16",
+			"12",
+			"11",
+			"6",
+			"4",
+			"2",
+			"3",
+			"Incorrect password",
+			"Password Verified",
+			"this",
+			"_again_e",
+			"f49bf}",
+			"not_this",
+			"substring",
+			"ver",
+			"RED",
+			"Blue",
+			"White",
+			"Black",
+			"White",
+			"'",
+			"{",
+			"}",
+			"{",
+			"'",
+			"{",
+			"}",
+			"'",
+			"20",
+			"3",
+			"double"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "package.json",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 406,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (NPM).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 51.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "body.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 124.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 215.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

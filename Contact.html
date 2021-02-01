@@ -2,14 +2,54 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <title>Contact me</title>
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Grandstander:ital,wght@1,300&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="body.css">
-    <link rel="stylesheet" href="Resume.css">
+    <link rel="stylesheet" href="Contact.css">
     <link rel="stylesheet" href="nav.css">
 </head>
 <body>
-
+<nav>
+    <a class="active" href="index.html">Home</a>
+    <a href="Resume.html">Resume</a>
+    <a href="Project.html">Projects</a>
+    <a class="push" href="#">Contact me</a>
+</nav>
+<form method="post" id="form">
+    <div>
+        <div id="NAME">
+            <div class="Name">
+                <label>First Name: *</label><br><input type="text" name="firstName" id="FirstName" onchange="validateFirstName()"><br>
+            </div>
+            <div class="Name">
+                <label>Last Name: *</label><br><input type="text" name="lastName" id="LastName" onchange="validateLastName()"><br>
+            </div>
+        </div>
+        <div class="rest">
+            <label>Email: *</label><br><input type="text" name="Email" onchange="validateEmail()"><br>
+        </div>
+        <div class="rest">
+            <label>Messege: *</label><br><input type="text" name="Messege"><br>
+        </div>
+        <div class="rest">
+            <label>Additional details: </label>
+            <br>
+            <textarea placeholder="Additional Messege" name="details" style="height: 90px;"></textarea>
+        </div>
+        <div class="last">
+            <input type="submit" id="send" value="Send Messege" onclick='SendMail()'>
+        </div>
+    </div>
+</form>
 </body>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/emailjs-com@2/dist/email.min.js"></script>
+<script type="text/javascript">
+(function () {
+emailjs.init("user_ZpvtgDzjnxFPucJ351u7g");
+})();
+</script>
+<script type="text/javascript" src="Contact.js"></script>
+
+
 </html>
