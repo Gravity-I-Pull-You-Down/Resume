@@ -280,10 +280,10 @@
 	"buffers":
 	[
 		{
-			"file": "package.json",
+			"file": "body.sublime-project",
 			"settings":
 			{
-				"buffer_size": 406,
+				"buffer_size": 45,
 				"line_ending": "Unix"
 			}
 		}
@@ -344,7 +344,6 @@
 	},
 	"expanded_folders":
 	[
-		"/mnt/sda5/Resume"
 	],
 	"file_history":
 	[
@@ -639,11 +638,11 @@
 			[
 				{
 					"buffer": 0,
-					"file": "package.json",
-					"semi_transient": true,
+					"file": "body.sublime-project",
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 406,
+						"buffer_size": 45,
 						"regions":
 						{
 						},
@@ -656,9 +655,7 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (NPM).sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (Sublime).sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,

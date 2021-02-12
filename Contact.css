@@ -57,6 +57,7 @@ form{
 	#indiv ,#FirstName ,#LastName , .Name{
 		width: 95%;
 		height: auto;
+		
 	}
 	#FirstName ,#LastName {
 		height: 2vh;
